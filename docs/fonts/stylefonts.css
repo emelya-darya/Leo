@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Segoe Media Center';
+    src: url('SegoeMediaCenter-Semibold.woff2') format('woff2'),
+        url('SegoeMediaCenter-Semibold.woff') format('woff'),
+        url('SegoeMediaCenter-Semibold.ttf') format('truetype'),
+        url('SegoeMediaCenter-Semibold.svg#SegoeMediaCenter-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mrs Eaves OT';
+    src: url('MrsEavesOT-Italic.woff2') format('woff2'),
+        url('MrsEavesOT-Italic.woff') format('woff'),
+        url('MrsEavesOT-Italic.ttf') format('truetype'),
+        url('MrsEavesOT-Italic.svg#MrsEavesOT-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Segoe WP';
+    src: url('SegoeWP-Light.woff2') format('woff2'),
+        url('SegoeWP-Light.woff') format('woff'),
+        url('SegoeWP-Light.ttf') format('truetype'),
+        url('SegoeWP-Light.svg#SegoeWP-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers CE 45';
+    src: url('UniversCE-Light.woff2') format('woff2'),
+        url('UniversCE-Light.woff') format('woff'),
+        url('UniversCE-Light.ttf') format('truetype'),
+        url('UniversCE-Light.svg#UniversCE-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
